@@ -12,4 +12,5 @@ Playground for learning go
 * [ ] Production docker container
 * [ ] Mongo connection
 * [ ] Web service
+      * [ ] Json encoding/decoding
 * [ ] Websocket service
