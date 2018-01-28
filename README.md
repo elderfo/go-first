@@ -4,6 +4,10 @@ Playground for learning go
 
 ## Goals
 
+* [x] Reference methods from different packages
+  * See [colors](./colors/colors.go)
+* [x] Exception handling
+  * See [colors](./colors/colors.go)
 * [x] Create tests
 * [ ] Create test with mocks 
   * [GoMock](https://github.com/golang/mock)
